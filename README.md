@@ -38,11 +38,7 @@
 git clone https://github.com/cossu555/ML_project.git
 cd ML_project
 
-# 2. Create the virtual environment
-python -m venv .venv
-source .venv/bin/activate
-
-# 3. Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 ```
 
