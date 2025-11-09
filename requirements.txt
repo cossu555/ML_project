@@ -1,0 +1,4 @@
+git+https://github.com/FutureComputing4AI/EMBER2024.git
+numpy
+scikit-learn
+matplotlib
