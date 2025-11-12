@@ -9,7 +9,7 @@
 
 - **Problem Statement**: Detecting Win64 malware is one of the most complex and demanding tasks in cybersecurity. These samples often employ advanced obfuscation, packing, and polymorphism, which make static analysis and classification extremely difficult. This remains a significant challenge for major antivirus vendors and threat intelligence teams.
 
-- **Proposed Solution**: Train two Machine Learning models and one Deep Learning model using the EMBER 2024 dataset. The goal is not only to achieve strong detection performance but also to analyze differences between the training and challenge datasets, in order to understand why certain samples—particularly those in the challenge set—are so difficult to detect.
+- **Proposed Solution**: Train two Machine Learning models and one Deep Learning model using the EMBER 2024 dataset. The goal is not only to achieve strong detection performance but also to analyze differences between the training and challenge datasets, in order to understand why certain samples particularly those in the challenge set are so difficult to detect.
 
 ---
 
