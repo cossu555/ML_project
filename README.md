@@ -25,6 +25,9 @@
 
 - **Data Analysis and Normalization**: Exploration of the dataset structure, key statistics, and normalization steps to prepare data for model training.
 
+<img width="1317" height="430" alt="image" src="https://github.com/user-attachments/assets/0b749360-0e86-4dd4-a796-996900fb38d9" />
+
+
 - **Model Training and Accuracy Analysis**: Training of three selected models (two ML and one DL), performance comparison, and evaluation of accuracy, precision, and recall.
 
 - **Testing on Challenge Data**: Evaluation of the trained models on the unseen challenge dataset to assess generalization and investigate the causes of misclassifications.
